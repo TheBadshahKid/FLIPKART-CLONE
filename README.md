@@ -1,5 +1,3 @@
-# FLIPKART-CLONE
-This is a flipkart(an ecommerce site) clone.
 # Flipkart - MERN
 Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
